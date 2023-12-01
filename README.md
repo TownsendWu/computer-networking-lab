@@ -1,2 +1,2 @@
 # computer-networking-lab
-Some experiments with computational networks
+Some experiments and explanations about computational networks, using a programming language mainly Rust
